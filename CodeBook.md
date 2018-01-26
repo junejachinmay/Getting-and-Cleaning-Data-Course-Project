@@ -1,11 +1,14 @@
 ## Code Book
 
-This code book summarizes the resulting data fields in tidy.txt.
+Summarizing contents of output tiday data set (tidydata.txt).
+README.md contains more detailed information about the project.
 
-Identifiers
 
-subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+## Identifiers
+
+SubjectIDs - The ID of the test subject
+Activities - Activity type at the time of measurement
+
 Measurements
 
 tBodyAccMeanX
@@ -87,11 +90,12 @@ fBodyBodyGyroMagMeanFreq
 fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
-Activity Labels
 
-WALKING (value 1): subject was walking during the test
-WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
-WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
-SITTING (value 4): subject was sitting during the test
-STANDING (value 5): subject was standing during the test
-LAYING (value 6): subject was laying down during the test
+## Activity Labels
+
+WALKING (Value 1): Subject was walking during the test
+WALKING_UPSTAIRS (Value 2): Subject was walking upstairs during the test
+WALKING_DOWNSTAIRS (Value 3): Subject was walking downstairs during the test
+SITTING (Value 4): Subject was sitting during the test
+STANDING (Value 5): Subject was standing during the test
+LAYING (Value 6): Subject was laying during the test

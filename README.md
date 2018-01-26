@@ -7,7 +7,7 @@ In this project, data collected from the accelerometer and gyroscope of the Sams
 My repository contains the following files:
 
 * run_analysis.R - my R script used to create the tidy data set
-* README.md - explains the analysis files is clear and understandable.
+* README.md - this explains the analysis files clearly.
 * CodeBook.md - indicates all the variables and summaries calculated, along with units, and any other relevant information.
 * tidy_data.txt - my output tidy data set.
 

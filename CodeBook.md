@@ -1,12 +1,14 @@
 ## Code Book
 
 Summarizing contents of output tiday data set (tidydata.txt).
+
 README.md contains more detailed information about the project.
 
 
 ## Identifiers
 
 SubjectIDs - The ID of the test subject
+
 Activities - Activity type at the time of measurement
 
 Measurements
